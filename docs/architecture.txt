@@ -1,0 +1,23 @@
+M5 Dataset
+↓
+Data Preprocessing
+↓
+Feature Engineering
+↓
+LightGBM Forecasting
+↓
+Causal Inference
+├─ DoWhy DAG
+├─ Backdoor Adjustment
+├─ PSM
+└─ Counterfactual Analysis
+↓
+Model Evaluation
+├─ RMSE
+├─ MAE
+├─ WAPE
+└─ SHAP
+↓
+MLflow Tracking
+↓
+Results & Insights
