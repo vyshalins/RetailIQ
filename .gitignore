@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual Environment
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# MLflow
+mlruns/
+**/mlruns/
+
+# VS Code
+.vscode/
+
+# Raw data
+data/raw/
+
+# Processed datasets
+data/processed/*.parquet
+
+# SQLite temp files
+*.db-journal
+
+# Large models (optional)
+# models/*.pkl

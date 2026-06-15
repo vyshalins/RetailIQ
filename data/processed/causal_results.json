@@ -1,0 +1,7 @@
+{
+    "treatment": "discount_flag",
+    "outcome": "sales",
+    "ate": -0.055745695026705455,
+    "refuted_effect": -0.05574905704727454,
+    "p_value": 0.96
+}

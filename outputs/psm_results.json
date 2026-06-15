@@ -1,0 +1,6 @@
+{
+    "treated_mean_sales": 0.7012704174228676,
+    "matched_control_mean_sales": 0.4847549909255898,
+    "psm_ate": 0.21651542649727773,
+    "dowhy_ate": -0.055745695026705455
+}
