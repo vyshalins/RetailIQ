@@ -203,6 +203,6 @@ Historical demand patterns were significantly more influential than promotional 
 
 ## Author
 
-Vyshalini S
+Vyshali N S
 
 Built as an end-to-end Machine Learning and Causal Inference project for retail demand forecasting and promotional impact analysis.
